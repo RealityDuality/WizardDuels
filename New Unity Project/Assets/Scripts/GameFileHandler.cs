@@ -17,7 +17,7 @@ using UnityEngine;
 
             if (json == "")
             {
-                string s = JsonUtility.ToJson(gs);
+                string s = JsonUtility.ToJson(gs, true);
                 WriteString(GameSettingPath, s);
             }
             else
