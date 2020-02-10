@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<Data xmlns="http://tempuri.org/XMLDataSet.xsd">
+<xs:schema id="Data" targetNamespace="http://tempuri.org/XMLDataSet.xsd" xmlns:mstns="http://tempuri.org/XMLDataSet.xsd" xmlns="http://tempuri.org/XMLDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="Data" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Modifier">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="Duration" type="xs:float" minOccurs="0" />
+              <xs:element name="Value" type="xs:float" minOccurs="0" />
+              <xs:element name="SortLvl" type="xs:int" minOccurs="0" />
+              <xs:element name="ValueType" type="xs:string" minOccurs="0" />
+              <xs:element name="ParentID" type="xs:string" minOccurs="0" />
+              <xs:element name="MinModifierLv" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Stance">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ObjId" type="xs:long" minOccurs="0" />
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="Level" type="xs:float" minOccurs="0" />
+              <xs:element name="Proficiency" type="xs:float" minOccurs="0" />
+              <xs:element name="ProficiencyType" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Config">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LastObjectId" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Character">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CharacterClass">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+  <Config>
+    <LastObjectId>1</LastObjectId>
+  </Config>
+</Data>

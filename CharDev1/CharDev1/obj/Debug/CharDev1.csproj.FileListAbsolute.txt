@@ -1,0 +1,14 @@
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\bin\Debug\CharDev1.exe
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\bin\Debug\CharDev1.pdb
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\MainWindow.g.cs
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\App.g.cs
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1_MarkupCompile.cache
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1_MarkupCompile.lref
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\MainWindow.baml
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1.g.resources
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1.Properties.Resources.resources
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1.csproj.GenerateResource.Cache
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1.exe
+c:\users\clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1.pdb
+C:\Users\Clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1.csprojAssemblyReference.cache
+C:\Users\Clint\documents\visual studio 2017\Projects\CharDev1\CharDev1\obj\Debug\CharDev1.csproj.CoreCompileInputs.cache
